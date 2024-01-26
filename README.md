@@ -1,4 +1,8 @@
-### Hi there 👋
+### "If the University Library is an Abbey, then I am the Abbot."
+- 🌀💻 I am studying Applied Mathematics and Modelling in the Master CSMI of the University of Strasbourg.
+- 🧬🌱 I have graduated the Double Bachelor in Mathematics and Biology of the Paris-Saclay University.
+- 🐍 I love starting funny projects around Biomathematics, Videogames or Music and never ending them.
+
 
 <!--
 **ARegardin/ARegardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
